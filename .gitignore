@@ -1,0 +1,16 @@
+# Python 相关
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Excel 相关
+*.xlsx
+*.xls
+汇总报表.xlsx
+excel_data/
+
+# 虚拟环境
+venv/
+.env
